@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.85dc42b3.chunk.css",
+    "main.js": "/static/js/main.bcd0e10a.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.bbd9d7f3.js",
+    "static/css/2.fb75dcb6.chunk.css": "/static/css/2.fb75dcb6.chunk.css",
+    "static/js/2.9094820b.chunk.js": "/static/js/2.9094820b.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.7878f0b46e2c9891face98a1e8f3fcde.js": "/precache-manifest.7878f0b46e2c9891face98a1e8f3fcde.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.9094820b.chunk.js.LICENSE.txt": "/static/js/2.9094820b.chunk.js.LICENSE.txt",
+    "static/media/Main.css": "/static/media/icon_vkcoin_dark.091841d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbd9d7f3.js",
+    "static/css/2.fb75dcb6.chunk.css",
+    "static/js/2.9094820b.chunk.js",
+    "static/css/main.85dc42b3.chunk.css",
+    "static/js/main.bcd0e10a.chunk.js"
+  ]
+}
